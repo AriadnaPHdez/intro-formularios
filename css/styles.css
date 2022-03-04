@@ -38,7 +38,7 @@ section{
     border-radius: 5px;
     width: 20em;
     padding: 2em;
-    
+    height: 70%;
    
 }
 
@@ -50,7 +50,7 @@ section{
 }
 
 .title-form div span{
-    font-size: 1.25em;
+    font-size: 18px;
     font-family:  Georgia, "Times New Roman", serif;
 }
 
@@ -60,13 +60,12 @@ section{
     text-decoration: none;
     font-family: "Karla", "Helvetica Neue", Arial, Helvetica, sans-serif;
     font-weight: normal;
+    font-size: 14px;
     
     
 }
 
-section{
-    height: 100%;
-}
+
 
 section .in{
     display: flex;
